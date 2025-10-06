@@ -12,7 +12,7 @@ In a world flooded with professional content, users face key challenges:
 
 There’s no dynamic way to reflect real-time growth. SkillSync solves this.
 
-## ✅ Our Solution
+## ✅ Solution
 
 SkillSync introduces a Generative AI–driven layer on LinkedIn that:
 - **Tracks and updates** skills based on user activity (projects, internships, certifications, contributions)
@@ -82,12 +82,3 @@ SkillSync introduces a Generative AI–driven layer on LinkedIn that:
 
 ---
 
-## 👩‍💻 Team CodeCatalysts
-
-- **Aditi Gopinath**  
-- **Dhruvi Sharma**  
-- **Mitali Gaikwad**  
-- **Shanvi**  
-- **Sweta Murali**
-
----
